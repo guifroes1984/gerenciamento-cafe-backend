@@ -7,4 +7,6 @@ public class CafeConstants {
     public static final String DADOS_INVALIDOS = "Dados inválidos.";
 
     public static final String ACESSO_NAO_AUTORIZADO = "Acesso não autorizado.";
+
+    public static final String LOCAL_DA_LOJA = "C:\\Users\\Master\\Documents\\café-arquivos-armazenados";
 }
